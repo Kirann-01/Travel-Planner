@@ -10,4 +10,4 @@ The Software is provided for personal or private use only by the author. No pers
 
 Any unauthorized use of this Software is strictly forbidden and may result in legal consequences. The author holds no liability for any unauthorized or illegal use of the Software.
 
-You are solely responsible for any unauthorized use, and the author disclaims all liability arising from any such actions.
+You are solely responsible for any unauthorized use,  and the author disclaims all liability arising from any such actions.
